@@ -1,14 +1,10 @@
-![Sumaiya Akter, Co-Founder & CTO at Tekrawab](assets/banner.svg)
-
-# Hi, I'm Sumaiya 👋
-
-**Co-Founder & CTO at Tekrawab | WordPress Developer | React & Next.js Engineer**
+![Hello, I am Sumaiya, a WordPress, React and Next.js developer](assets/banner.svg)
 
 **[🚀 Tekrawab](https://tekrawab.com)**  |  **[🧰 ToolFreeKit](https://toolfreekit.com)**  |  **[💼 LinkedIn](https://www.linkedin.com/in/sumaiya-akter-51b3a2339)**
 
 ## 👩‍💻 About
 
-I build **WordPress websites, custom themes and plugins**, and **React / Next.js interfaces**. I am the Co-Founder & CTO of **Tekrawab**, a web agency for service businesses, and the creator of **ToolFreeKit**, a free set of browser-based tools.
+I build **WordPress websites, custom themes and plugins**, and **React / Next.js interfaces**. I am the Co-Founder & CTO of **Tekrawab**, a web agency for service businesses, and a co-creator of **ToolFreeKit**, a free set of browser-based tools.
 
 | Detail | Info |
 |---|---|
@@ -24,19 +20,19 @@ I build **WordPress websites, custom themes and plugins**, and **React / Next.js
 
 | Service | What you get |
 |---|---|
-| 🌐 **Business websites** | Custom WordPress sites built for service businesses |
-| 📝 **Inquiry forms** | Forms that turn visitors into leads |
-| 📅 **Online booking** | Clients book directly from your website |
-| 👥 **CRM** | Keep client details and inquiries in one place |
-| 🔐 **Client portals** | A private area for your clients |
-| 💰 **Fixed-price scoping** | Clear scope and cost before the work starts |
-| 🔌 **WordPress plugins** | In development under the Tekrawab brand |
+| 🌐 **Website & Landing Page Design** | Responsive, search-friendly websites matched to your brand |
+| 📝 **Smart Forms** | Forms with conditional logic and file uploads to capture leads |
+| 📅 **Appointment Calendars** | Online booking with 24/7 availability and email reminders |
+| 👥 **CRM & Marketing Automation** | Manage contacts, email lists and follow-up sequences in WordPress |
+| 🔐 **Specialized Client Portal** | A client portal built on your own WordPress domain |
+
+➕ **And more services:** see [all Tekrawab services](https://tekrawab.com/services/).
 
 🎁 **Free homepage concept:** request yours at [tekrawab.com](https://tekrawab.com).
 
 ## 🧰 ToolFreeKit: Digital Tool Website
 
-[**ToolFreeKit**](https://toolfreekit.com) is my own product: **11 free tools** that run in your browser.
+[**ToolFreeKit**](https://toolfreekit.com) is a product we built together: **11 free tools** that run in your browser.
 
 | Category | Details |
 |---|---|
@@ -44,7 +40,7 @@ I build **WordPress websites, custom themes and plugins**, and **React / Next.js
 | 🖼️ **Images** | Tools for working with images |
 | ✍️ **Text** | Tools for working with text |
 | 🔳 **QR codes** | Tools for QR codes |
-| 🔒 **Privacy** | Files stay on your device. Nothing is uploaded. |
+| 🔒 **Privacy** | Nothing is uploaded to the ToolFreeKit server. |
 
 ## 🛠️ Tech Stack
 
@@ -66,5 +62,5 @@ Also: Gutenberg, GenerateBlocks, Elementor, custom themes and plugins.
 
 | Where | Link |
 |---|---|
-| 📧 **Email** | [your-email@example.com](mailto:your-email@example.com) |
+| 📧 **Email** | [sumaiya.akter.contact@gmail.com](mailto:sumaiya.akter.contact@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/sumaiya-akter-51b3a2339](https://www.linkedin.com/in/sumaiya-akter-51b3a2339) |
