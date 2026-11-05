@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About
 
-I build **WordPress websites, custom themes and plugins**, and **React / Next.js interfaces**. I am the Co-Founder & CTO of **Tekrawab**, a web agency for service businesses, and a co-creator of **ToolFreeKit**, a free set of browser-based tools.
+I build **WordPress websites, custom themes and plugins**, and **React / Next.js interfaces**. I am the Co-Founder & CTO of **Tekrawab**, a web agency for service businesses, and I lead the technical development and deployment of **ToolFreeKit**, a free set of browser-based tools.
 
 | Detail | Info |
 |---|---|
@@ -28,11 +28,11 @@ I build **WordPress websites, custom themes and plugins**, and **React / Next.js
 
 ➕ **And more services:** see [all Tekrawab services](https://tekrawab.com/services/).
 
-🎁 **Free homepage concept:** request yours at [tekrawab.com](https://tekrawab.com).
+🎁 **Free homepage concept:** request yours at [tekrawab.com](https://tekrawab.com/request-your-free-concept/).
 
 ## 🧰 ToolFreeKit: Digital Tool Website
 
-[**ToolFreeKit**](https://toolfreekit.com) is a product we built together: **11 free tools** that run in your browser.
+[**ToolFreeKit**](https://toolfreekit.com) is a product built by the Tekrawab team: **11 free tools** that run in your browser.
 
 | Category | Details |
 |---|---|
